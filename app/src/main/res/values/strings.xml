@@ -1,9 +1,8 @@
 <resources>
-    <string name="app_name">conversor-android-studio</string>
+    <string name="app_name">Conversor Java</string>
 
-    <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
     <string name="millas">Millas</string>
     <string name="convertir">Convertir</string>
-    <string name="kilometros">kilometros</string>
+    <string name="kilometros">kilómetros</string>
 </resources>
