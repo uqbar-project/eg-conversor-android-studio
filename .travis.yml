@@ -1,1 +1,8 @@
 language: android
+
+android:
+  components:
+    # ...
+  licenses:
+    - android-sdk-license-.+
+    - '.+'
