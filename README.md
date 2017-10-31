@@ -13,7 +13,7 @@ Este proyecto está generado para
 
 * Android Studio 3.0.0 (Septiembre 2017)
 * con Gradle 3.0.0 (el que viene con Android Studio)
-* para una SDK 26 (Nougat)
+* para una SDK 26 (Oreo)
 
 ## La arquitectura MVC
 
